@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "im_server", "src\im_server\im_server.vcproj", "{0F7628AD-CB85-4FE5-982A-B6CC35629429}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "im_client", "src\im_client\im_client.vcproj", "{81594735-1A7F-4E2A-840A-C29ACDCD0714}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F7628AD-CB85-4FE5-982A-B6CC35629429}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0F7628AD-CB85-4FE5-982A-B6CC35629429}.Debug|Win32.Build.0 = Debug|Win32
+		{0F7628AD-CB85-4FE5-982A-B6CC35629429}.Release|Win32.ActiveCfg = Release|Win32
+		{0F7628AD-CB85-4FE5-982A-B6CC35629429}.Release|Win32.Build.0 = Release|Win32
+		{81594735-1A7F-4E2A-840A-C29ACDCD0714}.Debug|Win32.ActiveCfg = Debug|Win32
+		{81594735-1A7F-4E2A-840A-C29ACDCD0714}.Debug|Win32.Build.0 = Debug|Win32
+		{81594735-1A7F-4E2A-840A-C29ACDCD0714}.Release|Win32.ActiveCfg = Release|Win32
+		{81594735-1A7F-4E2A-840A-C29ACDCD0714}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
